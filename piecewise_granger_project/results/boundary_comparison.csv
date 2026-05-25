@@ -1,6 +1,0 @@
-baseline,ours_mean_error,baseline_mean_error,mean_improvement,ci_95_low,ci_95_high,win_rate,tie_rate,loss_rate,margin_win_rate_m_60,significant_mean_improvement
-mean,433.65,3176.31,2742.66,2246.184,3229.7415,0.93,0.01,0.06,0.91,True
-covariance,433.65,2965.87,2532.22,2071.194,3007.853,0.88,0.03,0.09,0.85,True
-mean_covariance,433.65,3076.11,2642.46,2139.8645,3123.432,0.90,0.01,0.09,0.86,True
-midpoint,433.65,1718.03,1284.38,977.6895,1559.1975,0.90,0.01,0.09,0.88,True
-random,433.65,3171.69,2738.04,2275.009,3178.2715,0.94,0.00,0.06,0.93,True

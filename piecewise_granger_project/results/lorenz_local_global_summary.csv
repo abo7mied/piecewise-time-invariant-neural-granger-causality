@@ -1,5 +1,0 @@
-method,regime1_f1,regime2_f1,mean_f1,mean_nshd
-Local cMLP,0.50,0.67,0.58,0.32
-Global cMLP,0.50,0.33,0.42,0.45
-Local VAR/Ridge,0.33,0.25,0.29,0.53
-Global VAR/Ridge,0.67,0.25,0.46,0.38

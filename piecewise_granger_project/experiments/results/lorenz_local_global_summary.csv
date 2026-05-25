@@ -1,3 +1,0 @@
-model,global_vs_regime1_f1,global_vs_regime2_f1,global_mean_f1,local_vs_regime1_f1,local_vs_regime2_f1,local_mean_f1,global_vs_regime1_nshd,global_vs_regime2_nshd,global_mean_nshd,local_vs_regime1_nshd,local_vs_regime2_nshd,local_mean_nshd
-VAR/Ridge,0.4166666666661319,0.4999999999994583,0.45833333333279513,0.33333333333280557,0.24999999999947914,0.2916666666661424,0.4,0.36666666666666664,0.3833333333333333,0.4666666666666667,0.6,0.5333333333333333
-cMLP repeated training mean,,,0.39166666666613403,,,0.4333333333327972,,,0.43166666666666664,,,0.395
