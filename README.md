@@ -1,1 +1,2 @@
-Main project is in the folder: piecewise-granger-project.
+Code: piecewise-granger-project.
+Paper: final-report.
