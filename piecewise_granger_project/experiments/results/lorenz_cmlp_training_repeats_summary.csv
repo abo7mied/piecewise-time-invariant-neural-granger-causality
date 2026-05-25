@@ -1,0 +1,2 @@
+model,n_train_runs,global_mean_f1_mean,global_mean_f1_std,local_mean_f1_mean,local_mean_f1_std,global_mean_nshd_mean,global_mean_nshd_std,local_mean_nshd_mean,local_mean_nshd_std
+cMLP repeated training,10,0.39166666666613403,0.09043789220054636,0.4333333333327972,0.10053867261584638,0.43166666666666664,0.05178898305076186,0.395,0.06806405842574124

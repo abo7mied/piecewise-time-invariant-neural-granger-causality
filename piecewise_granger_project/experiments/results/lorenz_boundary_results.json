@@ -1,0 +1,8 @@
+{
+  "true_tau": 4000,
+  "tau_hat": 4110,
+  "abs_error": 110,
+  "norm_abs_error": 0.011,
+  "T": 10000,
+  "d": 6
+}

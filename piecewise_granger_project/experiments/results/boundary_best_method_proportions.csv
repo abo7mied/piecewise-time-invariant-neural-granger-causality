@@ -1,0 +1,7 @@
+method,best_score_total,proportion_best
+ours,87.0,0.87
+mean,6.5,0.065
+covariance,2.0,0.02
+mean_covariance,1.0,0.01
+midpoint,2.5,0.025
+random,1.0,0.01
