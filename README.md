@@ -1,5 +1,7 @@
 # Piecewise Time-invariant Neural Granger Causality Detection
 
+## Abstract
+
 We study Granger-causal graph recovery in multivariate time series with timevarying
 Granger-causality, in particular assuming piecewise time-invariance. We
 utilize a two-step approach: to estimate the regime boundary and then to recover the
