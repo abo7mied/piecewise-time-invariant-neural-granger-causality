@@ -1,2 +1,3 @@
-Code: piecewise-granger-project.
-Paper: final-report.
+Find the code in piecewise-granger-project.
+
+Find the paper at final-report.
