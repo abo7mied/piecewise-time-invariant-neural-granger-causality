@@ -1,5 +1,7 @@
 # Piecewise Time-invariant Neural Granger Causality Detection
 
+This repository contains the reproducible experiments for one of my deep learning projects.
+
 ## Abstract
 
 We study Granger-causal graph recovery in multivariate time series with timevarying
