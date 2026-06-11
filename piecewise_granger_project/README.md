@@ -1,8 +1,10 @@
 # Piecewise Time-Invariant Neural Granger Causality Detection
 
-This projeoct implements my propoed method for recovering time-varying Granger causality graphs. The proposed method is as follows: 
+This projeoct implements my propoed method for recovering time-varying Granger causality graphs with deep learning. 
+
+The proposed method is as follows: 
 1. Detect a point of change in underlying Granger causal structure in multivariate time series by maximizing my proposed score function: log-normalized cross-regime prediction
-2. Fit local Granger-causal graphs inside the estimated regimes using Tank's Neural Granger Causality framework.
+2. Fit local Granger-causal graphs inside the estimated regimes (e.g., using Tank's Neural Granger Causality framework).
 
 ## Environment setup
 
