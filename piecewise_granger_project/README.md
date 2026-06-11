@@ -1,6 +1,8 @@
 # Piecewise Time-Invariant Neural Granger Causality Detection
 
-This project detects a regime boundary in a multivariate time series using normalized cross-regime prediction, then fits local Granger-causal graphs inside the estimated regimes.
+This projeoct implements my propoed method for recovering time-varying Granger causality graphs. The proposed method is as follows: 
+1. Detect a point of change in underlying Granger causal structure in multivariate time series by maximizing my proposed score function: log-normalized cross-regime prediction
+2. Fit local Granger-causal graphs inside the estimated regimes using Tank's Neural Granger Causality framework.
 
 ## Environment setup
 
