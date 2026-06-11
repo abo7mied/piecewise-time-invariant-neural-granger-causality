@@ -23,4 +23,4 @@ suggesting that the split is useful, but neural graph recovery remains sensitive
 training variability.
 
 ## Project Folder
-The repository 'piecewise_granger_project' contains the reproducible experiments for one of my deep learning projects.
+The repository 'piecewise_granger_project' contains the reproducible experiments.
